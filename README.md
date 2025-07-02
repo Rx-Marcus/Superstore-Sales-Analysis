@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Business Objectives](business-objectives)
-- [Date Source](data-source)
+- [Data Source](data-source)
 - [Tools](tools)
 
 ### Project Overview
