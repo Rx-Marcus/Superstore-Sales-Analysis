@@ -1,12 +1,5 @@
 # Superstore Sales Trend Analysis
 
-## Table of Contents
-
-- [Project Overview](project-overview)
-- [Business Objectives](business-objectives)
-- [Data Source](data-source)
-- [Tools](tools)
-
 ### Project Overview
 
 This project aims to analyze sales data to uncover key business insights. The focus will be on identifying trends, seasonal patterns, and anomalies within the dataset. By evaluating performance across products, regions, subcategories, and customer segments, the analysis will inform strategic decision-making. It will highlight which areas to target for growth and which to deprioritize due to underperformance. Ultimately, the outcome will support data-driven decision-making and resource allocation.
