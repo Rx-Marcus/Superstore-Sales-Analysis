@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](project-overview)
 - [Business Objectives](business-objectives)
 - [Data Source](data-source)
 - [Tools](tools)
