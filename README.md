@@ -1,7 +1,15 @@
 # Superstore Sales Trend Analysis
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Business Objectives](#business-objectives)
 - [Data Source](#data-source)
-
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis](#data-analysis)
+- [Visualization](#visualization)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
@@ -30,7 +38,7 @@ The dataset used for this project is the "Superstore Sales Analysis Dataset.xlsx
 - Excel 
 - Power Bi
 
-### Data cleaning/preparation
+### Data Cleaning and Preparation
 1.	The column “Row ID” was removed
 2.	The “Order Date” and “Ship Date” date format was changed from “MM–DD–YY” to “DD–MM–YY”, and the data type was set as date.
 3.	Four (4) dimension tables were created
@@ -54,7 +62,7 @@ Seven (7) DAX measures were created to enhance analysis
 
 ### Visualization
 
-#### Page 1: Sales trend analysis overview
+#### Page 1: Sales Trend Analysis Overview
 
 #### Purpose:
 To give stakeholders a quick overview of business performance at a glance.
@@ -79,7 +87,7 @@ To give stakeholders a quick overview of business performance at a glance.
 - State
 - Region
 
-#### Page 2: Sales performance analysis
+#### Page 2: Sales Performance Analysis
 #### Purpose:
 To evaluate how product category and subcategory contribute to profit and revenue
 
@@ -97,7 +105,7 @@ To evaluate how product category and subcategory contribute to profit and revenu
 - Total profit by subcategory
 - Profit margin by subcategory
 
-#### Page 3: Discount impact analysis
+#### Page 3: Discount Impact Analysis
 #### Purpose:
 To evaluate how discounts influence sales, revenue, and profit.
 #### Visuals:
@@ -110,7 +118,7 @@ To evaluate how discounts influence sales, revenue, and profit.
 3. Funnel:
 - Average discount by subcategory
 
-#### Page 4: Geospatial analysis
+#### Page 4: Geospatial Analysis
 #### Purpose:
 To show performance across states, cities, and regions.
 #### Visuals:
