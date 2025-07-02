@@ -11,7 +11,8 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 
-### Project Overview
+### Project Overview 📽️
+---
 
 This project aims to analyze sales data to uncover key business insights. The focus will be on identifying trends, seasonal patterns, and anomalies within the dataset. By evaluating performance across products, regions, subcategories, and customer segments, the analysis will inform strategic decision-making. It will highlight which areas to target for growth and which to deprioritize due to underperformance. Ultimately, the outcome will support data-driven decision-making and resource allocation.
 
@@ -31,7 +32,6 @@ This project aims to analyze sales data to uncover key business insights. The fo
 
 
 ### Data Source
-
 The dataset used for this project is the "Superstore Sales Analysis Dataset.xlsx" obtained from kaggle www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ### Tools
