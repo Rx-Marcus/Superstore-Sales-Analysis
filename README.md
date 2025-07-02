@@ -39,8 +39,8 @@ The dataset used for this project is the "Superstore Sales Analysis Dataset.xlsx
 - Power Bi
 
 ### Data Cleaning and Preparation
-1.	The column “Row ID” was removed
-2.	The “Order Date” and “Ship Date” date format was changed from “MM–DD–YY” to “DD–MM–YY”, and the data type was set as date.
+1.	The column `Row ID` was removed
+2.	The `Order Date` and `Ship Date` date format was changed from “MM–DD–YY” to “DD–MM–YY”, and the data type was set as date.
 3.	Four (4) dimension tables were created
    - DimOrder
    - DimCustomer
