@@ -32,7 +32,7 @@ This project aims to analyze sales data to uncover key business insights. The fo
 
 
 ### Data Source
-The dataset used for this project is the "Superstore Sales Analysis Dataset.xlsx" obtained from [kaggle](#www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+The dataset used for this project is the "Superstore Sales Analysis Dataset.xlsx" obtained from [kaggle](https://kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Tools
 - Excel 
