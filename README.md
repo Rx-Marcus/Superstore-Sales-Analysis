@@ -16,6 +16,14 @@
 
 This project aims to analyze sales data to uncover key business insights. The focus will be on identifying trends, seasonal patterns, and anomalies within the dataset. By evaluating performance across products, regions, subcategories, and customer segments, the analysis will inform strategic decision-making. It will highlight which areas to target for growth and which to deprioritize due to underperformance. Ultimately, the outcome will support data-driven decision-making and resource allocation.
 
+<img width="942" height="540" alt="Screenshot 2025-10-16 235140" src="https://github.com/user-attachments/assets/ec744ddb-28a0-49d4-9840-20ff2fe26cf8" />
+
+<img width="941" height="541" alt="Screenshot 2025-10-16 235228" src="https://github.com/user-attachments/assets/f77fc6e7-c73e-4251-bb5c-229def79e873" />
+
+<img width="943" height="543" alt="Screenshot 2025-10-16 235320" src="https://github.com/user-attachments/assets/901c8e30-f939-42db-966a-0d7f96e8c08b" />
+
+<img width="941" height="539" alt="Screenshot 2025-10-16 235457" src="https://github.com/user-attachments/assets/018f57a3-6236-4ff2-8c49-5cdb8bf68f17" />
+
 ### Business Objectives
 1.	Which product subcategory recorded the highest profit, and which incurred the greatest loss?
 2.	Which customer segment contributes the most to overall profit?
